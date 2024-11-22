@@ -1,0 +1,12 @@
+input::placeholder {
+  color: rgba(255, 255, 255, 0.663) !important;
+}
+
+input {
+  color: white !important;
+}
+
+select {
+  background-color: #cccccc !important;
+  color: black !important;
+}
